@@ -32,3 +32,6 @@ python manage.py makemigrations
 
 # AWK
 awk '{ print $1 > "mixed_text_set_20.passwd.only.txt";}' mixed_test_set_20.txt
+
+#screen 
+pkill screen #wipe all screens
