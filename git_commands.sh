@@ -1,0 +1,1 @@
+git -rm somefilename --cache  # remove a file from git repo but keep it inside the drive
