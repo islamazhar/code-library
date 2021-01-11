@@ -19,7 +19,7 @@ matlab -softwareopengl # Opens MATLAB on softwareopengl
 
 
 
-
+# PASSWORDS
 cut -d$'\t' -f 2- mixed_full_leak_data_40_1.txt | tr '\t' '\n' | sort | uniq -c | sort nrk1
 
 
@@ -35,3 +35,15 @@ awk '{ print $1 > "mixed_text_set_20.passwd.only.txt";}' mixed_test_set_20.txt
 
 #screen 
 pkill screen #wipe all screens
+
+# SYS check
+df -h #https://www.howtogeek.com/409611/how-to-view-free-disk-space-and-disk-usage-from-the-linux-terminal/
+source ~/.bashrc  #to update the bashrc file to take effect instead of restarting.
+
+# JAVA
+update-alternatives --config java #Source: https://thishosting.rocks/install-java-ubuntu/
+
+# TAR
+tar -xvf *.tar [-C directory name] #source: https://www.interserver.net/tips/kb/use-tar-command-linux-examples/
+
+
