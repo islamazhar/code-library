@@ -7,6 +7,12 @@ Here is the link: https://stackoverflow.com/questions/19201290/how-to-save-a-dic
 
 
 '''
-How to save a numpy array to disk in a compressed way. 
+How to save a numpy array to disk in a compressed way.
+Same problem as before. does not work in my case as keys are not string hence,
+'''
+
+'''
+Multiprocessing `chunksize ` parameter meaning.
+https://stackoverflow.com/questions/3822512/chunksize-parameter-in-pythons-multiprocessing-pool-map
 '''
 
