@@ -5,3 +5,8 @@ Right now I am using pickle in HIGHEST_PROTOCOL.
 Here is the link: https://stackoverflow.com/questions/19201290/how-to-save-a-dictionary-to-a-file
 '''
 
+
+'''
+How to save a numpy array to disk in a compressed way. 
+'''
+
